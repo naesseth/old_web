@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributio...">
+  <meta name="description" content="Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributions, and (ii) optimizing the parameters to find the member of this family that most closely approximates the exact posterior. In this paper we present a new approximating family of distributions, the variational sequential Monte Carlo (VSMC) family, and show how to optimize it in variational inference. VSMC melds variational inference (VI) and sequential Monte Carlo (SMC), providing practitioners with flexible, accurate, and powerful Bayesian inference. The VSMC family is a variational family that can approximate the posterior arbitrarily well, while still allowing for efficient optimization of its parameters. We demonstrate its utility on state space models, stochastic volatility models for financial data, and deep Markov models of brain neural circuits.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://naesseth.github.io/publication/naesseth-variational-2018/">
@@ -223,10 +223,9 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@chris_naesseth">
   <meta property="twitter:creator" content="@chris_naesseth">
@@ -234,8 +233,8 @@
   <meta property="og:site_name" content="Christian A. Naesseth">
   <meta property="og:url" content="https://naesseth.github.io/publication/naesseth-variational-2018/">
   <meta property="og:title" content="Variational Sequential Monte Carlo | Christian A. Naesseth">
-  <meta property="og:description" content="Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributio..."><meta property="og:image" content="https://naesseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://naesseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributions, and (ii) optimizing the parameters to find the member of this family that most closely approximates the exact posterior. In this paper we present a new approximating family of distributions, the variational sequential Monte Carlo (VSMC) family, and show how to optimize it in variational inference. VSMC melds variational inference (VI) and sequential Monte Carlo (SMC), providing practitioners with flexible, accurate, and powerful Bayesian inference. The VSMC family is a variational family that can approximate the posterior arbitrarily well, while still allowing for efficient optimization of its parameters. We demonstrate its utility on state space models, stochastic volatility models for financial data, and deep Markov models of brain neural circuits."><meta property="og:image" content="https://naesseth.github.io/publication/naesseth-variational-2018/featured.png">
+  <meta property="twitter:image" content="https://naesseth.github.io/publication/naesseth-variational-2018/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-12-19T17:34:21&#43;00:00">
@@ -268,6 +267,10 @@
   },
   "headline": "Variational Sequential Monte Carlo",
   
+  "image": [
+    "https://naesseth.github.io/publication/naesseth-variational-2018/featured.png"
+  ],
+  
   "datePublished": "2020-12-19T17:34:21Z",
   "dateModified": "2020-12-19T12:34:21-05:00",
   
@@ -284,7 +287,7 @@
       "url": "img/https://naesseth.github.io"
     }
   },
-  "description": "Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributio..."
+  "description": "Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributions, and (ii) optimizing the parameters to find the member of this family that most closely approximates the exact posterior. In this paper we present a new approximating family of distributions, the variational sequential Monte Carlo (VSMC) family, and show how to optimize it in variational inference. VSMC melds variational inference (VI) and sequential Monte Carlo (SMC), providing practitioners with flexible, accurate, and powerful Bayesian inference. The VSMC family is a variational family that can approximate the posterior arbitrarily well, while still allowing for efficient optimization of its parameters. We demonstrate its utility on state space models, stochastic volatility models for financial data, and deep Markov models of brain neural circuits."
 }
 </script>
 
@@ -565,18 +568,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>Variational Sequential Monte Carlo</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -620,7 +631,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -681,7 +692,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 248px;">
+  <div style="position: relative">
+    <img src="/publication/naesseth-variational-2018/featured_hudd7093f1a8121eeb78356e202a2d6c7c_127702_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -690,7 +708,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributio&hellip;</p>
+    <p class="pub-abstract">Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributions, and (ii) optimizing the parameters to find the member of this family that most closely approximates the exact posterior. In this paper we present a new approximating family of distributions, the variational sequential Monte Carlo (VSMC) family, and show how to optimize it in variational inference. VSMC melds variational inference (VI) and sequential Monte Carlo (SMC), providing practitioners with flexible, accurate, and powerful Bayesian inference. The VSMC family is a variational family that can approximate the posterior arbitrarily well, while still allowing for efficient optimization of its parameters. We demonstrate its utility on state space models, stochastic volatility models for financial data, and deep Markov models of brain neural circuits.</p>
     
 
     
