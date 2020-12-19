@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas B. Schön | Christian A. Naesseth</title>
+    <link>https://naesseth.github.io/authors/thomas-b.-schon/</link>
+      <atom:link href="https://naesseth.github.io/authors/thomas-b.-schon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas B. Schön</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://naesseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas B. Schön</title>
+      <link>https://naesseth.github.io/authors/thomas-b.-schon/</link>
+    </image>
+    
+    <item>
+      <title>Elements of Sequential Monte Carlo</title>
+      <link>https://naesseth.github.io/publication/naesseth-elements-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://naesseth.github.io/publication/naesseth-elements-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

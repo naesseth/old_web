@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Elements of Sequential Monte Carlo</title>
+      <link>https://naesseth.github.io/publication/naesseth-elements-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://naesseth.github.io/publication/naesseth-elements-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Dimensional Filtering Using Nested Sequential Monte Carlo</title>
+      <link>https://naesseth.github.io/publication/naesseth-high-dimensional-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://naesseth.github.io/publication/naesseth-high-dimensional-2019/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
