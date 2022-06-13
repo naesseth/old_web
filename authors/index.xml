@@ -7,68 +7,10 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://naesseth.github.io/images/icon_hudeb5b3697ec954132fbcbec28ec58433_10200_512x512_fill_lanczos_center_2.png</url>
+      <url>https://naesseth.github.io/images/icon_hudeb5b3697ec954132fbcbec28ec58433_10200_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
       <link>https://naesseth.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title>Christian A. Naesseth</title>
-      <link>https://naesseth.github.io/authors/christian-a.-naesseth/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/christian-a.-naesseth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Blei</title>
-      <link>https://naesseth.github.io/authors/david-blei/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/david-blei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fredrik Lindsten</title>
-      <link>https://naesseth.github.io/authors/fredrik-lindsten/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/fredrik-lindsten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas B. Schön</title>
-      <link>https://naesseth.github.io/authors/thomas-b.-schon/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/thomas-b.-schon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rajesh Ranganath</title>
-      <link>https://naesseth.github.io/authors/rajesh-ranganath/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/rajesh-ranganath/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scott Linderman</title>
-      <link>https://naesseth.github.io/authors/scott-linderman/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/scott-linderman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://naesseth.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://naesseth.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&#39;m an Assistant Professor of Machine Learning at the &lt;a href=&#34;https://www.uva.nl&#34;&gt;University of Amsterdam&lt;/a&gt; and a member of &lt;a href=&#34;https://amlab.science.uva.nl/&#34;&gt;AMLab&lt;/a&gt;. Previously, I was a postdoctoral research scientist with &lt;a href=&#34;http://www.cs.columbia.edu/~blei/&#34;&gt;David Blei&lt;/a&gt; at the &lt;a href=&#34;https://datascience.columbia.edu/&#34;&gt;Data Science Institute, Columbia University&lt;/a&gt;. I completed my PhD in Electrical Engineering at &lt;a href=&#34;https://liu.se&#34;&gt;Linköping University&lt;/a&gt;, advised by &lt;a href=&#34;https://lindsten.netlify.app/&#34;&gt;Fredrik Lindsten&lt;/a&gt; and &lt;a href=&#34;http://user.it.uu.se/~thosc112/index.html&#34;&gt;Thomas Schön&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research interests include approximate statistical inference, causality and artificial intelligence as well as their application to the life sciences.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
